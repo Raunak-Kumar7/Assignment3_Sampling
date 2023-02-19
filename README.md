@@ -1,4 +1,5 @@
-# Comparing Sampling Techniques for 5 Machine Learning Models
+Raunak Kumar
+# Comparion of Sampling Techniques for 5 Machine Learning Models
 
 ## Introduction
 
